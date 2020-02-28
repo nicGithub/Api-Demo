@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Thu Feb 27 10:32:05 CST 2020
+2.base=/home/mi/develop/studio-workspace/wuage-studio-workspace/ApiDemos/app/build/intermediates/merged_assets/debug/mergeDebugAssets/out
+5.set=ASSET
+0.path=fonts/samplefont.ttf
+2.baseType=DIRECTORY
+3.base=/home/mi/develop/studio-workspace/wuage-studio-workspace/ApiDemos/app/build/intermediates/transforms/dexMerger/debug/0
+2.set=ASSET
+1.path=HelloActivity.apk
+4.base=/home/mi/develop/studio-workspace/wuage-studio-workspace/ApiDemos/app/build/intermediates/transforms/dexMerger/debug/1
+count=6
+5.baseType=DIRECTORY
+2.path=read_asset.txt
+5.base=/home/mi/develop/studio-workspace/wuage-studio-workspace/ApiDemos/app/build/intermediates/merged_assets/debug/mergeDebugAssets/out
+4.set=DEX
+3.path=classes.dex
+3.baseType=DIRECTORY
+1.set=ASSET
+4.path=classes.dex
+1.baseType=DIRECTORY
+5.path=fonts/samplefont.ttx
+0.base=/home/mi/develop/studio-workspace/wuage-studio-workspace/ApiDemos/app/build/intermediates/merged_assets/debug/mergeDebugAssets/out
+0.baseType=DIRECTORY
+3.set=DEX
+1.base=/home/mi/develop/studio-workspace/wuage-studio-workspace/ApiDemos/app/build/intermediates/merged_assets/debug/mergeDebugAssets/out
+4.baseType=DIRECTORY
+0.set=ASSET
